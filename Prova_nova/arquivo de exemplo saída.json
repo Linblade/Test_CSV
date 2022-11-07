@@ -1,0 +1,62 @@
+[
+   {
+      "Departamento":"Departamento de Operações Especiais",
+      "MesVigencia":"Abril",
+      "AnoVigencia":2022,
+      "TotalPagar":26632.8,
+      "TotalDescontos":1500.0,
+      "TotalExtras":8877.6,
+      "Funcionarios":[
+         {
+            "Nome":"João da Silva",
+            "Codigo":1,
+            "TotalReceber":16632.8,
+            "HorasExtras":12.00,
+            "HorasDebito":30.00,
+            "DiasFalta":1,
+            "DiasExtras":1,
+            "DiasTrabalhados":30
+         },
+         {
+            "Nome":"Fabiano Azevedo",
+            "Codigo":2,
+            "TotalReceber":10000.0,
+            "HorasExtras":0.00,
+            "HorasDebito":0.00,
+            "DiasFalta":0,
+            "DiasExtras":0,
+            "DiasTrabalhados":30
+         }
+      ]
+   },
+   {
+      "Departamento":"Outro Departamento",
+      "MesVigencia":"Abril",
+      "AnoVigencia":2022,
+      "TotalPagar":26632.8,
+      "TotalDescontos":1500.0,
+      "TotalExtras":8877.6,
+      "Funcionarios":[
+         {
+            "Nome":"João da Silva",
+            "Codigo":1,
+            "TotalReceber":16632.8,
+            "HorasExtras":12.00,
+            "HorasDebito":30.00,
+            "DiasFalta":1,
+            "DiasExtras":1,
+            "DiasTrabalhados":30
+         },
+         {
+            "Nome":"Fabiano Azevedo",
+            "Codigo":2,
+            "TotalReceber":10000.0,
+            "HorasExtras":0.00,
+            "HorasDebito":0.00,
+            "DiasFalta":0,
+            "DiasExtras":0,
+            "DiasTrabalhados":30
+         }
+      ]
+   }
+]

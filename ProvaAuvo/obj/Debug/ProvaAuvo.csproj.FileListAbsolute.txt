@@ -1,0 +1,11 @@
+D:\Programacion\teste_ProvaAuvo\ProvaAuvo\bin\Debug\ProcessoRh.exe.config
+D:\Programacion\teste_ProvaAuvo\ProvaAuvo\bin\Debug\ProcessoRh.exe
+D:\Programacion\teste_ProvaAuvo\ProvaAuvo\bin\Debug\ProcessoRh.pdb
+D:\Programacion\teste_ProvaAuvo\ProvaAuvo\obj\Debug\ProvaAuvo.csproj.AssemblyReference.cache
+D:\Programacion\teste_ProvaAuvo\ProvaAuvo\obj\Debug\ProvaAuvo.csproj.SuggestedBindingRedirects.cache
+D:\Programacion\teste_ProvaAuvo\ProvaAuvo\obj\Debug\ProcessoRh.ProcessaPonto.resources
+D:\Programacion\teste_ProvaAuvo\ProvaAuvo\obj\Debug\ProcessoRh.Properties.Resources.resources
+D:\Programacion\teste_ProvaAuvo\ProvaAuvo\obj\Debug\ProvaAuvo.csproj.GenerateResource.cache
+D:\Programacion\teste_ProvaAuvo\ProvaAuvo\obj\Debug\ProvaAuvo.csproj.CoreCompileInputs.cache
+D:\Programacion\teste_ProvaAuvo\ProvaAuvo\obj\Debug\ProcessoRh.exe
+D:\Programacion\teste_ProvaAuvo\ProvaAuvo\obj\Debug\ProcessoRh.pdb
